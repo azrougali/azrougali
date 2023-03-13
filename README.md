@@ -9,7 +9,6 @@ My name is AZROUG Mohamed Abdel Ali and I'm a 22-year-old student  at the Higher
 - 👨‍💻 I'm excited to share that I am now a backend developer at Seferone company. As a backend developer, I am responsible for designing, building, and maintaining the server-side of web applications
 - 🔭 I'm thrilled to share that in addition to my role as a backend developer at Seferone company, I am also currently pursuing an internship in Data Science at Aalto University in Finland. As a Master's student in Information System and Technology, I am passionate about using data to derive insights and make informed decisions.
 - ⚡ I’m currently expanding my knowledge in Microservices architecture and exploring how it can be implemented in backend development. Additionally, I am continuously learning new technologies and tools related to backend development, such as cloud computing platforms like AWS and containerization tools like Docker and Kubernetes.
--👨‍💻 Some of my projects are available on public **Here** 
 - 💬 Ask me about **java , asp.net ,kotlin,node js ,sql , mongo db**
 - 📫 How to reach me **hm_azroug@esi.dz**
 
